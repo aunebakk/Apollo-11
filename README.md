@@ -5,58 +5,82 @@
 [![Comanche]][ComancheMilestone]
 [![Luminary]][LuminaryMilestone]
 
-🎌
-[Bahasa Indonesia][ID],
+🌐
+[Azerbaijani][AZ],
+[bahasa Indonesia][ID],
 [Català][CA],
 [Čeština][CZ],
+[Dansk][DA],
 [Deutsch][DE],
-**English**,
+[English][EN],
 [Español][ES],
 [Français][FR],
+[Galego][GL],
 [Italiano][IT],
-[Kurdi][KU],
+[Kurdî][KU],
+[Lietuvių][LT],
+[Mongolian][MN],
 [Nederlands][NL],
+[Norsk][NO],
 [Polski][PL],
 [Português][PT_BR],
 [Română][RO],
-[Tiếng Việt][VI],
+[Svenska][SV],
+[tiếng Việt][VI],
 [Türkçe][TR],
+[Ελληνικά][GR],
+[Беларуская мова][BE],
 [Русский][RU],
+[Українська][UK],
 [العربية][AR],
 [فارسی][FA],
+[नेपाली भाषा][NE]
 [हिंदी][HI_IN],
+[অসমীয়া][AS_IN],
 [বাংলা][BD_BN],
 [မြန်မာ][MM],
+[한국어][KO_KR],
 [日本語][JA],
 [正體中文][ZH_TW],
-[简体中文][ZH_CN],
-[한국어][KO_KR]
+[简体中文][ZH_CN]
 
-[AR]:README.ar.md
-[BD_BN]:README.bd_bn.md
-[CA]:README.ca.md
-[CZ]:README.cz.md
-[DE]:README.de.md
+[AR]:Translations/README.ar.md
+[AS_IN]:Translations/README.as_in.md
+[AZ]:Translations/README.az.md
+[BD_BN]:Translations/README.bd_bn.md
+[BE]:Translations/README.be.md
+[CA]:Translations/README.ca.md
+[CZ]:Translations/README.cz.md
+[DA]:Translations/README.da.md
+[DE]:Translations/README.de.md
 [EN]:README.md
-[ES]:README.es.md
-[FA]:README.fa.md
-[FR]:README.fr.md
-[HI_IN]:README.hi_in.md
-[ID]:README.id.md
-[IT]:README.it.md
-[JA]:README.ja.md
-[KO_KR]:README.ko_kr.md
-[KU]:README.ku.md
-[MM]:README.mm.md
-[PL]:README.pl.md
-[PT_BR]:README.pt_br.md
-[RO]:README.ro.md
-[RU]:README.ru.md
-[TR]:README.tr.md
-[VI]:README.vi.md
-[ZH_CN]:README.zh_cn.md
-[ZH_TW]:README.zh_tw.md
-[NL]:README.nl.md
+[ES]:Translations/README.es.md
+[FA]:Translations/README.fa.md
+[FR]:Translations/README.fr.md
+[GL]:Translations/README.gl.md
+[GR]:Translations/README.gr.md
+[HI_IN]:Translations/README.hi_in.md
+[ID]:Translations/README.id.md
+[IT]:Translations/README.it.md
+[JA]:Translations/README.ja.md
+[KO_KR]:Translations/README.ko_kr.md
+[KU]:Translations/README.ku.md
+[LT]:Translations/README.lt.md
+[MM]:Translations/README.mm.md
+[MN]:Translations/README.mn.md
+[NE]:Translations/README.ne.md
+[NL]:Translations/README.nl.md
+[NO]:Translations/README.no.md
+[PL]:Translations/README.pl.md
+[PT_BR]:Translations/README.pt_br.md
+[RO]:Translations/README.ro.md
+[RU]:Translations/README.ru.md
+[SV]:Translations/README.sv.md
+[TR]:Translations/README.tr.md
+[UK]:Translations/README.uk.md
+[VI]:Translations/README.vi.md
+[ZH_CN]:Translations/README.zh_cn.md
+[ZH_TW]:Translations/README.zh_tw.md
 
 Original Apollo 11 guidance computer (AGC) source code for Command Module (Comanche055) and Lunar Module (Luminary099). Digitized by the folks at [Virtual AGC][3] and [MIT Museum][4]. The goal is to be a repo for the original Apollo 11 source code. As such, PRs are welcome for any issues identified between the transcriptions in this repository and the original source scans for [Luminary 099][5] and [Comanche 055][6], as well as any files I may have missed.
 
@@ -87,7 +111,7 @@ Digitalisation | This source code has been transcribed or otherwise adapted from
 
 This AGC program shall also be referred to as Colossus 2A.
 
-This program is intended for use in the CM as specified in report `R-577`. This program was prepared under DSR project `55-23870`, sponsored by the Manned Spacecraft Center of The National Aeronautics and Space Administration through contract `NAS 9-4065` with the Instrumentation Laboratory, Massachusetts Institute of Technology, Cambridge, Mass.
+This program is intended for use in the Command Module as specified in report `R-577`. This program was prepared under DSR project `55-23870`, sponsored by the Manned Spacecraft Center of The National Aeronautics and Space Administration through contract `NAS 9-4065` with the Instrumentation Laboratory, Massachusetts Institute of Technology, Cambridge, Mass.
 
 Submitted by         | Role | Date
 :------------------- | :--- | :---
